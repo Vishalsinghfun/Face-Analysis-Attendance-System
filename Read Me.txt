@@ -1,0 +1,17 @@
+Requirements Install Project 
+-----------------------------
+1. VS Code or Pycharm communication
+2. Python 3.8.5 64bit
+3. mysql workbench ( create database same as mention in project file )
+4. Windows, Linux, or Mac.
+----------------------------------------------------------------
+Install Libaries as Mention in Files of Project 
+-----------------------------------------------
+tkinter
+Pillow
+Image,ImageTk
+mysql.connector
+Face_Recognition
+os
+opencv-python
+Numpy
